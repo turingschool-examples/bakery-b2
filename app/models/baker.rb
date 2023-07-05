@@ -1,0 +1,2 @@
+class Baker < ApplicationRecord
+end
